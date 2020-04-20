@@ -1,3 +1,3 @@
 # Panda-illustration
 
-![Panda Illustration](/images/img1.jpg)
+![Panda Illustration](/images/image1.jpg)
